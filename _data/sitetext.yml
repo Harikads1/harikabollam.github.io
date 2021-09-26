@@ -72,10 +72,8 @@ en: &DEFAULT_EN
     title: "About Me"
     #text: "our story"
     body: "Over 5 years of extensive experience as Java/J2EE Developer building web - based enterprise application for banking
-domain
-•Expertise in various methodologies of the Software Development Lifecycle (SDLC) process including analysis, design,
-development, implementation, integration, testing, debugging, production &amp; maintenance.
-•High Proficiency with Object Oriented Programming Design, Multi-threading, Exception Handling, Data Structures and
+domain| •Expertise in various methodologies of the Software Development Lifecycle (SDLC) process including analysis, design,
+development, implementation, integration, testing, debugging, production &amp; maintenance.| •High Proficiency with Object Oriented Programming Design, Multi-threading, Exception Handling, Data Structures and
 Algorithms, Collections, Garbage Collection, Method References, Functional Interfaces
 •Extensive experience using Java technologies: Core Java, JDBC, JSP, Servlets.
 •Experienced in using J2EE Design Patterns, MVC, Session Facade, Service Locator, Data Access Object, Data Transfer Object
